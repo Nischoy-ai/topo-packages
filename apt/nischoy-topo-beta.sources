@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://nischoy-ai.github.io/topo-packages/apt
+Suites: beta
+Components: main
+Architectures: amd64 arm64
+Signed-By: /etc/apt/keyrings/nischoy-topo.gpg

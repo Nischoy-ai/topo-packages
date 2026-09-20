@@ -1,0 +1,7 @@
+[nischoy-topo-beta]
+name=Nischoy Topo (beta)
+baseurl=https://nischoy-ai.github.io/topo-packages/rpm/beta/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://nischoy-ai.github.io/topo-packages/keys/nischoy-topo-archive.asc
