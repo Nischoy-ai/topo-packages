@@ -5,30 +5,30 @@ Origin: Nischoy
 Label: Nischoy Topo
 Suite: beta
 Codename: beta
-Date: Fri, 09 Oct 2026 00:29:17 UTC
-Valid-Until: Sun, 08 Nov 2026 00:29:17 UTC
+Date: Fri, 09 Oct 2026 23:00:13 UTC
+Valid-Until: Thu, 07 Jan 2027 23:00:13 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Nischoy Topo packages
 Acquire-By-Hash: yes
 SHA256:
- 18585b11b81278e3b65828ed795638e433d40a2b1f5b0241c5b8c1f5f18ea7ff 391 main/binary-amd64/Packages
- dd3ae4c9ceec131086d43b84b225c1f1d31c6050c530202e693b913005fc449a 305 main/binary-amd64/Packages.gz
- fc51e7e6334d4eaa835523dc40c75ec825da4c7d9a28b06276897a0a4ba903d9 391 main/binary-arm64/Packages
- fd1e7c585cdae9f01c8dab07ef30321ba099e3a1db898e8626278d960fa3c8a6 306 main/binary-arm64/Packages.gz
+ 72f7f9181b2485860c2da8697d3b54a7659ec1ab5cf07893168c16829c76cc14 393 main/binary-amd64/Packages
+ 2b36e8f58ead917bc35ff2c356b248e000879fe1fa5f4a23eaabe14b84bb2cb9 310 main/binary-amd64/Packages.gz
+ e0896752f4887f7fb942e46592804834784b44a0174307b27850a1b78a3b32b2 393 main/binary-arm64/Packages
+ efda1ffb031a49f6c8e7fac1cb4d589e029b3335f97d6abd9945c2e859b69e39 309 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEYEnAG7GM6Ow5XaFvnGTyW2UvBnMFAmrIOyAACgkQnGTyW2Uv
-BnP7yxAAj182RloGmrIdKNbudmxkR5FDJMGTnegKA82xLKtUvWclRHcEI3lmyEwb
-SvNCIY71IUUWI7X+MaC5/VhVU/zpvsue0b8So1gif1yMyckT46KcDBBpyMZLE56l
-8SbXQ08nDENJYaJHZD/s81VAA/j6QmvBhVIve4Gctq1OBSTZFVOEqhkyV4l9zf5/
-XduAPBfhcSEi+/pSQn2ZiOHrIObLNI1fXr/x6a2uJhM0w9m5ll4264UixIoKN2BR
-4T70cPznroWG19WLU4gPdtzGSXEQ2Ge3QZIVhkeEI2Z4lrFJvlispepOGhE32Iut
-G+/QPSSzV+iBTUK7vG5cYZrlKkMGPH1b7ivVqfit0McvNRPIkg9EhLJCbcaWbZr1
-myHJfVUP0QEKXhx06NfpiJ7vvUq5XwSHa+wtZsyJ7NM7kmqnXT3KDjsQoUBEOpgZ
-p1RPcgG77x/qUKAapKViAmv4iHKhJFIzC8gi9Jq0P+Md370AYcyu1q9pdKqaM+5r
-WFa6181S+zv4Z4zMVk+J3wOfQszY/kzN9hnJTh0BGtllHnC1I6ewwhDSd3blJhf6
-PFvFBHK8YK2/r1rw9x/bc0ej2WeLx54XLixJ4EdquZzJC1cjeVh363gs0WyTpwsh
-wI1Ybgg5dRmeSUOSXJ38vYkzwsCoOYvpQiiZEAbBLRRy8NpXICk=
-=hN2X
+iQIzBAEBCAAdFiEEYEnAG7GM6Ow5XaFvnGTyW2UvBnMFAmrJdaYACgkQnGTyW2Uv
+BnM2MRAAkjtfc6FtSFvbH6mHOfVS9oizZHE7QIoBUMj/lPc6ygf5pb0pRMMzv5Ch
+J7p1xdAib2Gr86CwbcmFmEhTDcASQYx6+z52p07ScKEw4lbSSQGI2YqRYaPMBZrF
+vlBRCytg0grj3r0cyqnpfXbyu9Bvmofz+OZ3YOjVx6qxoTtN+prnIJpeMZ/KnxnR
+UyU1G9M6Oa7+x7D3P37g/jsmO3MUZRu7U4v2qnkhFtvmi2T/2WuLvwYQM4M4VNSe
+L2g7Ftg2c7QfN+cUe1lGDqZxUZKBOsOE90Qe2VOY1hXCNSiUXFYDoqxUedXAZn3P
+A8sflZMpW6NwfgiadJBMA2rQbb3tcOzyR1W+zQMTamPZazXoYZ0LTDYKJnsixVGp
+YC/3VbmL7WFaGpTLzKcMyscv+9HyH7rdTkAbi5oQ6qgcKjKZfJAkSez4uWo6qE3L
+MYdu+fW4d0QX7p4eKeMvgcstRbp0En2bTfTrDF/GlRt0uf9eMrVGRCLXeri9fZ9i
+p2TAeRvzjvtWhWNaOHeRMp2XKAMZobLnvX0GEhthr2epOzgdsApNJh3PXs9Hak9e
+tmY0/RdopoYFKQ9YTdCTuG6+ZPQU9n+BGm1tu1lIeR2LH4gEw8TgSep6l6rqIhtE
+zRqsQuokonL+X1icA5VxvgfUrRTWxdKoGxgqWqvf5NxDKYqHYrc=
+=N1Q5
 -----END PGP SIGNATURE-----
