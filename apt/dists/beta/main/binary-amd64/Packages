@@ -1,10 +1,10 @@
 Package: topo
-Version: 0.1.0-beta.1
+Version: 0.4.6-beta.1
 Architecture: amd64
 Maintainer: Nischoy <security@nischoy.com>
-Filename: pool/main/t/topo/topo_0.1.0-beta.1_amd64.deb
-Size: 13620084
-SHA256: b46919a49e29bb508f233f1a75fa80f5b81d222da75f64cdfe5decc1389179cd
+Filename: pool/main/t/topo/topo_0.4.6-beta.1_amd64.deb
+Size: 13660622
+SHA256: 35dc060a8ec4638188da128679b1a2f53d16c0ca8d4cb4a18992e57866b77507
 Section: admin
 Priority: optional
 Homepage: https://github.com/Nischoy-ai/topo

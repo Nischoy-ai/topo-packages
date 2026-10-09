@@ -5,30 +5,30 @@ Origin: Nischoy
 Label: Nischoy Topo
 Suite: beta
 Codename: beta
-Date: Sun, 20 Sep 2026 02:56:31 UTC
-Valid-Until: Tue, 20 Oct 2026 02:56:31 UTC
+Date: Fri, 09 Oct 2026 00:29:17 UTC
+Valid-Until: Sun, 08 Nov 2026 00:29:17 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Nischoy Topo packages
 Acquire-By-Hash: yes
 SHA256:
- baf5245d51ca51ec8d1dc265d1e1ca95069a3a877ef24a48b2bebdf7f7a40194 391 main/binary-amd64/Packages
- 394de4989472dbb03dc4728fd28bd0b595df5ab6877d63e18447042a681d6403 305 main/binary-amd64/Packages.gz
- 3dacc9ae0a38855d8c786ccfd3486d535220c6716188e12de1e81685a849bb26 391 main/binary-arm64/Packages
- 5229fedf74b2a4bbe62f7d427fb5a2ed990edcf1bb565274c6313c5c8251d5a2 304 main/binary-arm64/Packages.gz
+ 18585b11b81278e3b65828ed795638e433d40a2b1f5b0241c5b8c1f5f18ea7ff 391 main/binary-amd64/Packages
+ dd3ae4c9ceec131086d43b84b225c1f1d31c6050c530202e693b913005fc449a 305 main/binary-amd64/Packages.gz
+ fc51e7e6334d4eaa835523dc40c75ec825da4c7d9a28b06276897a0a4ba903d9 391 main/binary-arm64/Packages
+ fd1e7c585cdae9f01c8dab07ef30321ba099e3a1db898e8626278d960fa3c8a6 306 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEYEnAG7GM6Ow5XaFvnGTyW2UvBnMFAmqvTsgACgkQnGTyW2Uv
-BnP5ew//TroKIh8ffS3pPCmCLfO2ZOJ06mQYt+H4H/V9NEAuNZE1HuPfQfY/xJi0
-2AUPoxiwfbBxmkZDdTtFDzbDoe+fpyCUSz3wEWMkbf3nOxrAMgylvz/qsjqxrDym
-HfBlJLl0hibh+1qOaOjVGZ5NOQ76xFsujPQsFOH82xR7QKrxqFSRrt8sLd8Mj2Bx
-GH/IAbY/s5xifClTj8DrVdS2yRfoCBBDTwPYN0iNu/fndYMA5D0Jq6U053bizrlO
-jrLBXBdkrBlh7/gQPA35S5wS+GrGyqxZ10qDSnRWsofyGC1ynfkaUyBk0m+F1UIE
-toQMTDT7LOMtEkN9L7tuGq8luuX+zELAiyCuKvpgPmRodpHOsw59uCRB0pddMYmy
-FKe9+w5C2a0+wdTLWVc5tpe07ZSIu7FU+IEFujtJl7Hv8p369tYadAproQauucsY
-e28WCM/5a+HYiZDodyMCep6bjB1s0mU1/5z7JrIFyHcwtc4arc5y77PIB8Cv5YIr
-sX7ma3vXYe4XYmx+AYa/U+9EKfpqNw1y7K2F5lCH1n4BY1fqqe/kgPS15yiUdl/Y
-Bwdq3QVMfsoN2Xt5dGJiWF1134YIgEZJGfhtS7+fzTD0gEjQnhqzudH0RSN0xb6T
-In/G83rEE1MxhZP4Ftxqo/TggosiYWIUreW9nnmSS+cpSZBUtzE=
-=70PB
+iQIzBAEBCAAdFiEEYEnAG7GM6Ow5XaFvnGTyW2UvBnMFAmrIOyAACgkQnGTyW2Uv
+BnP7yxAAj182RloGmrIdKNbudmxkR5FDJMGTnegKA82xLKtUvWclRHcEI3lmyEwb
+SvNCIY71IUUWI7X+MaC5/VhVU/zpvsue0b8So1gif1yMyckT46KcDBBpyMZLE56l
+8SbXQ08nDENJYaJHZD/s81VAA/j6QmvBhVIve4Gctq1OBSTZFVOEqhkyV4l9zf5/
+XduAPBfhcSEi+/pSQn2ZiOHrIObLNI1fXr/x6a2uJhM0w9m5ll4264UixIoKN2BR
+4T70cPznroWG19WLU4gPdtzGSXEQ2Ge3QZIVhkeEI2Z4lrFJvlispepOGhE32Iut
+G+/QPSSzV+iBTUK7vG5cYZrlKkMGPH1b7ivVqfit0McvNRPIkg9EhLJCbcaWbZr1
+myHJfVUP0QEKXhx06NfpiJ7vvUq5XwSHa+wtZsyJ7NM7kmqnXT3KDjsQoUBEOpgZ
+p1RPcgG77x/qUKAapKViAmv4iHKhJFIzC8gi9Jq0P+Md370AYcyu1q9pdKqaM+5r
+WFa6181S+zv4Z4zMVk+J3wOfQszY/kzN9hnJTh0BGtllHnC1I6ewwhDSd3blJhf6
+PFvFBHK8YK2/r1rw9x/bc0ej2WeLx54XLixJ4EdquZzJC1cjeVh363gs0WyTpwsh
+wI1Ybgg5dRmeSUOSXJ38vYkzwsCoOYvpQiiZEAbBLRRy8NpXICk=
+=hN2X
 -----END PGP SIGNATURE-----
