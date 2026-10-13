@@ -2,14 +2,14 @@ Origin: Nischoy
 Label: Nischoy Topo
 Suite: beta
 Codename: beta
-Date: Fri, 09 Oct 2026 23:00:13 UTC
-Valid-Until: Thu, 07 Jan 2027 23:00:13 UTC
+Date: Tue, 13 Oct 2026 03:38:02 UTC
+Valid-Until: Mon, 11 Jan 2027 03:38:02 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Nischoy Topo packages
 Acquire-By-Hash: yes
 SHA256:
- 72f7f9181b2485860c2da8697d3b54a7659ec1ab5cf07893168c16829c76cc14 393 main/binary-amd64/Packages
- 2b36e8f58ead917bc35ff2c356b248e000879fe1fa5f4a23eaabe14b84bb2cb9 310 main/binary-amd64/Packages.gz
- e0896752f4887f7fb942e46592804834784b44a0174307b27850a1b78a3b32b2 393 main/binary-arm64/Packages
- efda1ffb031a49f6c8e7fac1cb4d589e029b3335f97d6abd9945c2e859b69e39 309 main/binary-arm64/Packages.gz
+ 37efd4a0e6965b06ce3592ba36c1fe87ba4db19665e93170caf0eac8d005a309 393 main/binary-amd64/Packages
+ 053912a98fd0c3e321d44c8a10504a3d08315b29c66e4d52f9bfbeae8f677196 309 main/binary-amd64/Packages.gz
+ ae62c852ba8011b7f9d8c8ad3cc114ff6209793ec1d6b30bb035d963c6aa7d81 393 main/binary-arm64/Packages
+ 772147667e15c5eb915baf67e62aa72902563ed07307676edb81611edd2b876d 308 main/binary-arm64/Packages.gz

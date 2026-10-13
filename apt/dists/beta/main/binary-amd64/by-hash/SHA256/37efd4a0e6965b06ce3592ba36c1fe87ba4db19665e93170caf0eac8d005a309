@@ -1,0 +1,12 @@
+Package: topo
+Version: 0.4.7~beta.1-1
+Architecture: amd64
+Maintainer: Nischoy <security@nischoy.com>
+Filename: pool/main/t/topo/topo_0.4.7-beta.1_amd64.deb
+Size: 13670308
+SHA256: 5d76a19a9866090979efa4313aa08076d0711693c02e0b77e4b5dac84d6befa0
+Section: admin
+Priority: optional
+Homepage: https://github.com/Nischoy-ai/topo
+Description: Destination-neutral infrastructure discovery data plane
+
